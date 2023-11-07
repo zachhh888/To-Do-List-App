@@ -1,6 +1,6 @@
 # To-Do-List-App
 
-This project allows a to do list to be created and saved to the local browser storage. The list items can additionally be deleted and marked as complete. The code scripts can be run locally using VS code or other local source code editors.
+This project allows a to do list to be created and saved to the local browser storage. The list items can additionally be deleted and marked as complete. The app can be run locally by cloning of the code scripts, followed by opening the html code in the local browser.
 
 The languages used for this project include:
 
